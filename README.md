@@ -34,15 +34,6 @@ SLAM / 로봇공학 / 로봇비전
 ## 📝 Notes & Talks
 
 
-## 📈 Stats (원하면 사용)
-<!-- YOUR_GH_ID 를 본인 깃허브 아이디로 교체 -->
-<a href="https://github-readme-stats.vercel.app/api?username=YOUR_GH_ID&show_icons=true&count_private=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_ID&show_icons=true&count_private=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GH_ID">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GH_ID" />
-</a>
-
 ## ✉️ Contact
 - Email: sangcheol2580@daum.net  
 
