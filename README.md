@@ -28,7 +28,7 @@ SLAM / 로봇공학 / 로봇비전
 ## ⭐ Selected Projects
 | Project | What | Tech |
 |---|---|---|
-| **multi_robot_controller** | 중앙 관리형 Nav2 태스크 매니저(멀티 로봇 목표 할당/ETA 정책) | ROS 2, Nav2, rclcpy |
+| **multi_robot_controller** | 중앙 관리형 Nav2 태스크 매니저(멀티 로봇 목표 할당/ETA 정책) 교육용 시스템 개발 | ROS 2, Nav2, rclcpy, multi robot |
 
 
 ## 📝 Notes & Talks
